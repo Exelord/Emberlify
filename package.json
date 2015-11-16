@@ -1,6 +1,6 @@
 {
   "name": "emberlify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The ULR maker library for ember 2",
   "directories": {
     "doc": "doc",
