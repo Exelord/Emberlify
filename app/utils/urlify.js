@@ -1,0 +1,1 @@
+export { default } from 'urlify/utils/urlify';

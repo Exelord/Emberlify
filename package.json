@@ -1,7 +1,7 @@
 {
-  "name": "URLify",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "Urlify",
+  "version": "0.0.1",
+  "description": "The ULR maker library for ember 2",
   "directories": {
     "doc": "doc",
     "test": "tests"
