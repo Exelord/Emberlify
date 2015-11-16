@@ -1,1 +1,1 @@
-export { default } from 'urlify/utils/urlify';
+export { default } from 'emberlify/utils/emberlify';

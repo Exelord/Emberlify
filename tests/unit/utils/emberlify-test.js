@@ -1,4 +1,4 @@
-import urlify from '../../../utils/emberlify';
+import emberlify from '../../../utils/emberlify';
 import { module, test } from 'qunit';
 
 module('Unit | Utility | emberlify');
